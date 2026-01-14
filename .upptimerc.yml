@@ -1,8 +1,8 @@
 owner: phucdn # GitHub username
 repo: upptime3 # GitHub repository name
 sites: # List of endpoints to track
-  - name: Bidv
-    url: https://bidv.com.vn
+  - name: tpbank
+    url: https://tpb.vn
 assignees: # Users to assign downtime issues (optional)
   - AnandChowdhary
 status-website:
