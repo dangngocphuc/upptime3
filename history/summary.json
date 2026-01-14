@@ -1,40 +1,20 @@
 [
   {
-    "name": "Bidv Bank",
+    "name": "Bidv",
     "url": "https://bidv.com.vn",
     "icon": "https://icons.duckduckgo.com/ip3/bidv.com.vn.ico",
-    "slug": "bidv-bank",
+    "slug": "bidv",
     "status": "down",
-    "uptime": "13.26%",
-    "uptimeDay": "13.26%",
-    "uptimeWeek": "13.26%",
-    "uptimeMonth": "13.26%",
-    "uptimeYear": "13.26%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-01-14": 0
-    }
-  },
-  {
-    "name": "TPBank",
-    "url": "https://tpb.vn",
-    "icon": "https://icons.duckduckgo.com/ip3/tpb.vn.ico",
-    "slug": "tp-bank",
-    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2760,
-    "timeDay": 2760,
-    "timeWeek": 2760,
-    "timeMonth": 2760,
-    "timeYear": 2760,
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {}
   }
 ]
