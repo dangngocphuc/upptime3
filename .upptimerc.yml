@@ -1,6 +1,6 @@
 # Repo info
 owner: dangngocphuc
-repo: uptime3
+repo: upptime3
 
 # Sites to monitor
 sites:
@@ -9,7 +9,7 @@ sites:
 
 # Status website
 status-website:
-  baseUrl: /uptime3
+  baseUrl: /upptime3
   name: Uptime Monitor
   introTitle: "Website Monitoring Status"
   introMessage: "This page shows real-time uptime data powered by GitHub Actions."
@@ -17,4 +17,4 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/dangngocphuc/uptime3
+      href: https://github.com/dangngocphuc/upptime3
